@@ -1,0 +1,29 @@
+.category {
+    font-weight:bold; 
+    margin-bottom: 5px;
+    font-size: 0.9rem; 
+}
+
+.category.vacation {
+    color: #0066cc; 
+}
+
+.category.design {
+    color: #0a7d33; 
+}
+
+.category.food {
+    color: orchid; 
+}
+
+.category.makeup {
+    color: orange; 
+}
+
+.category.exercise {
+    color: purple; 
+}
+
+.category.music {
+    color: crimson; 
+}

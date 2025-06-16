@@ -1,0 +1,7 @@
+.blog-footer {
+    background-color: rgb(117, 191, 187); 
+    padding: 20px 0; 
+    display: flex; 
+    justify-content: center; 
+    position: relative;
+}
